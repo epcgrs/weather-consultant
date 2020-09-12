@@ -4,9 +4,9 @@ consultor de tempo com busca por cidades utilizando React.js integrado com [open
 
 
 <div>
-    <img src="https://ibb.co/G2c67cd" border="0" alt="screenchot-cold">
+    <img src="https://i.ibb.co/KqFP6F5/weater-print.png" border="0" alt="screenchot-cold">
     <br>
-    <img src="https://ibb.co/7W5wcZd" border="0" alt="screenchot-cold">
+    <img src="https://i.ibb.co/tst7fvT/Screenshot-3.png" border="0" alt="screenchot-weat">
     <br>
 </div>
 
